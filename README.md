@@ -1,13 +1,11 @@
-# Hi, I'm Evan :)
+# About Me:
 
-## 📍 About Me:
-### Backend and Cloud Enthusiast
-
-Automation rat.
+Hi, I'm Evan, a CS Student, currently studying at The University of The Philippines Los Baños.
+I like creating utilities, automating, and putting stuff to the cloud.
 
 **Currently:** Exploring Cloud-native tools 
 
-## Connect With Me:
+# Contact Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/evangregorio) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evanngregorio@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/348028456723939329)
@@ -45,4 +43,5 @@ Automation rat.
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ecgregorio&icon=0&color=11)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=ecgregorio)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ecgregorio&layout=compact)
