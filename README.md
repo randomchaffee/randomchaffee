@@ -44,5 +44,5 @@ I like creating utilities, automating, and putting stuff to the cloud.
 
 ---
 ![](https://komarev.com/ghpvc/?username=ecgregorio)
-![coding time today](https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/YOUR_USERNAME/interval:today&label=Today%20coding%20time&color=blue)
-![Last 30d coding time](https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/YOUR_USERNAME/interval:30_days&label=Last%2030d%20coding%20time&color=blue)
+![coding time today](https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/ecgregorio/interval:today&label=Today%20coding%20time&color=blue)
+![Last 30d coding time](https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/ecgregorio/interval:30_days&label=Last%2030d%20coding%20time&color=blue)
