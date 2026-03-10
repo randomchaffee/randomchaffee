@@ -1,0 +1,14 @@
+name: Waka Readme
+on:
+  schedule:
+    # 4:00 PM UTC = 12:00 AM (Midnight) Manila Time
+    - cron: '0 16 * * *'
+  workflow_dispatch: # Allows you to run it manually
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
