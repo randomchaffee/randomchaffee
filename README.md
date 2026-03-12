@@ -1,6 +1,6 @@
 # About Me:
 
-Hi, I'm Evan, a CS Student, currently studying at The University of The Philippines Los Baños.
+Hi, I'm Evan, a CS Student, currently studying at the University of the Philippines Los Baños.
 
 I like creating utilities, automating, deploying, and creating meaningful projects.
 
