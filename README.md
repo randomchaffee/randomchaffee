@@ -1,6 +1,6 @@
 # About Me
 
-Hi, I'm chaffee, a CS student, currently studying at the University of the Philippines Los Baños.
+Hi, I'm Evan (randomchaffee), a CS student, currently studying at the University of the Philippines Los Baños.
 
 I like creating utilities, automating, deploying, and creating meaningful projects.
 
