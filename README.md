@@ -1,6 +1,6 @@
 # About Me
 
-Hi, I'm Evan, a CS student, currently studying at the University of the Philippines Los Baños.
+Hi, I'm chaffee, a CS student, currently studying at the University of the Philippines Los Baños.
 
 I like creating utilities, automating, deploying, and creating meaningful projects.
 
@@ -13,7 +13,7 @@ I like creating utilities, automating, deploying, and creating meaningful projec
 
 # Projects
 
-### ☁️ [evangregorio.me](https://github.com/ecgregorio/evangregorio.me)
+### ☁️ [evangregorio.me](https://github.com/randomchaffee/evangregorio.me)
 A full-stack platform on AWS EC2 with Dockerized FastAPI, PostgreSQL, Nginx TLS, and automated CI/CD via GitHub Actions.
 
 <details>
