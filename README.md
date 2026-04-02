@@ -54,6 +54,7 @@ A secure, multi-user Discord utility bot for Genshin Impact players to keep trac
          ![discord.py](https://img.shields.io/badge/discord.py-5865F2?style=flat&logo=discord&logoColor=white)
          ![genshin.py](https://img.shields.io/badge/genshin.py-2E8B57?style=flat)
          ![cryptography](https://img.shields.io/badge/cryptography-4B8BBE?style=flat)
+         ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
          ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
           ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white)
          ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
