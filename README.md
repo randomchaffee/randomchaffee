@@ -2,9 +2,7 @@
 
 Hi, I'm Evan (randomchaffee), a CS student, currently studying at the University of the Philippines Los Baños.
 
-I like creating utilities, automating, deploying, and creating meaningful projects.
-
-**Currently:** Exploring cloud-native tools 
+I like creating utilities, automating, and creating meaningful projects in my free time.
 
 # Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/evangregorio) 
