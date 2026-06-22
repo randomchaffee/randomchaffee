@@ -57,6 +57,13 @@ A secure, multi-user Discord utility bot for Genshin Impact players to keep trac
           ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white)
          ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
+## Recent Activity
+#### [mygrad](https://github.com/randomchaffee/mygrad)
+- a from-scratch autograd engine and neural network library. Based off Karpathy's micrograd.
+
+![last commit](https://img.shields.io/github/last-commit/randomchaffee/mygrad)
+
+
 ## Tech Stack
 | Category | Tools |
 | :--- | :--- |
