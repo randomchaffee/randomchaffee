@@ -57,17 +57,6 @@ A secure, multi-user Discord utility bot for Genshin Impact players to keep trac
           ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white)
          ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
-## Recent Activity
-
-<a href="https://github.com/randomchaffee/mygrad">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=randomchaffee&repo=mygrad&theme=github_dark&show_owner=false" alt="Recent Activity" />
-</a>
-<br><br>
-<a href="https://github.com/randomchaffee/mygrad">
-  <img src="https://img.shields.io/github/last-commit/randomchaffee/mygrad?style=flat&color=7aa2f7&label=Last%20Commit" alt="Last Commit"/>
-</a>
-
-
 ## Tech Stack
 | Category | Tools |
 | :--- | :--- |
