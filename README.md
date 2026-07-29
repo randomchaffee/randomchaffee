@@ -57,6 +57,14 @@ A secure, multi-user Discord utility bot for Genshin Impact players to keep trac
           ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white)
          ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
+## Recent Contributions
+
+- [randomchaffee/portfolio](https://github.com/randomchaffee/portfolio) - for the fourth iteration now, the web portfolio of Evan Gregorio (randomchaffee). not hosted on my domain yet (`today`)
+- [randomchaffee/mygrad](https://github.com/randomchaffee/mygrad) - a from-scratch autograd engine and neural network library. Based off Karpathy's micrograd. (`2 weeks ago`)
+- [randomchaffee/evangregorio.me](https://github.com/randomchaffee/evangregorio.me) - Full-stack personal web platform: FastAPI + PostgreSQL + Docker + Nginx + GitHub Actions CI/CD on AWS EC2. (`3 weeks ago`)
+- [PreMiD/Activities](https://github.com/PreMiD/Activities) - 🛒 Storage for Activities located at our Activity Library. (`4 weeks ago`)
+- [randomchaffee/astro-blog](https://github.com/randomchaffee/astro-blog) - A website I'm building using the Astro framework by following their "Build a blog tutorial" (`2 months ago`)
+
 ## Tech Stack
 | Category | Tools |
 | :--- | :--- |
