@@ -5,9 +5,13 @@ Hi, I'm Evan (randomchaffee), a CS student, currently studying at the University
 I like creating utilities, automating, and creating meaningful projects in my free time.
 
 # Contact Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/evangregorio) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evanngregorio@gmail.com) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/348028456723939329)
+<p align="left">
+  <a href="https://linkedin.com/in/evangregorio"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:evanngregorio@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://discordapp.com/users/348028456723939329"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+</p>
 
-# Projects
+# Some Of My Projects
 
 ### ☁️ [evangregorio.me](https://github.com/randomchaffee/evangregorio.me)
 A full-stack platform hosted on a DigitalOcean Droplet (previously on AWS EC2 but I migrated) with Dockerized FastAPI, PostgreSQL, Nginx TLS, and automated CI/CD via GitHub Actions.
@@ -54,12 +58,11 @@ A secure, multi-user Discord utility bot for Genshin Impact players to keep trac
 ## Tech Stack
 | Category | Tools |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) |
-| **Frameworks** | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white) ![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) |
-| **Cloud & DevOps**| ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Alembic](https://img.shields.io/badge/Alembic-FF6F00?style=flat&logo=python&logoColor=white) |
-| **Databases & ORMs** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![SQLModel](https://img.shields.io/badge/SQLModel-009688?style=flat&logo=pydantic&logoColor=white) |
-| **Learning** | ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) |
-
+| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)&nbsp;![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)&nbsp;![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) |
+| **Frameworks** | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white)&nbsp;![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) |
+| **Cloud & DevOps** | ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white)&nbsp;![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)&nbsp;![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)&nbsp;![Alembic](https://img.shields.io/badge/Alembic-FF6F00?style=flat&logo=python&logoColor=white) |
+| **Databases & ORMs** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)&nbsp;![SQLModel](https://img.shields.io/badge/SQLModel-009688?style=flat&logo=pydantic&logoColor=white) |
+| **Learning** | ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white)&nbsp;![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) |
 ---
 
 ![](https://komarev.com/ghpvc/?username=ecgregorio)
