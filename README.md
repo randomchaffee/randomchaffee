@@ -46,7 +46,7 @@ A secure, multi-user Discord utility bot for Genshin Impact players to keep trac
 ## Recent Contributions
 
 - [Sensha-Zenshin/.github](https://github.com/Sensha-Zenshin/.github) (`today`)
-- [randomchaffee/portfolio](https://github.com/randomchaffee/portfolio) - for the fourth iteration now, the web portfolio of Evan Gregorio (randomchaffee). not hosted on my domain yet (`today`)
+- [randomchaffee/portfolio](https://github.com/randomchaffee/portfolio) - my web portfolio (for the fourth iteration now) (wip). not hosted on my domain yet. (`today`)
 - [randomchaffee/mygrad](https://github.com/randomchaffee/mygrad) - a from-scratch autograd engine and neural network library. Based off Karpathy's micrograd. (`2 weeks ago`)
 - [randomchaffee/evangregorio.me](https://github.com/randomchaffee/evangregorio.me) - Full-stack personal web platform: FastAPI + PostgreSQL + Docker + Nginx + GitHub Actions CI/CD on AWS EC2. (`3 weeks ago`)
 - [PreMiD/Activities](https://github.com/PreMiD/Activities) - 🛒 Storage for Activities located at our Activity Library. (`4 weeks ago`)
