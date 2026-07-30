@@ -27,8 +27,6 @@ A full-stack platform hosted on a DigitalOcean Droplet (previously on AWS EC2 bu
 </details>
 
 - Website: [Live](https://evangregorio.me) | [API Docs](https://api.evangregorio.me/docs)
-- Stack:  ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-
 
 ### 🌙 [Resinly](https://github.com/randomchaffee/resinly)
 A secure, multi-user Discord utility bot for Genshin Impact players to keep track of their resin count.
@@ -45,7 +43,6 @@ A secure, multi-user Discord utility bot for Genshin Impact players to keep trac
 </details>
 
 - Add Resinly to your server: [Invite Link](https://discord.com/oauth2/authorize?client_id=1481178070114238506&permissions=274877975552&integration_type=0&scope=bot+applications.commands)
-- Stack: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![discord.py](https://img.shields.io/badge/discord.py-5865F2?style=flat&logo=discord&logoColor=white) ![genshin.py](https://img.shields.io/badge/genshin.py-2E8B57?style=flat) ![cryptography](https://img.shields.io/badge/cryptography-4B8BBE?style=flat) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
 ## Recent Contributions
 {{range recentContributions 5}}
@@ -55,11 +52,11 @@ A secure, multi-user Discord utility bot for Genshin Impact players to keep trac
 ## Tech Stack
 | Category | Tools |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)&nbsp;![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)&nbsp;![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) |
-| **Frameworks** | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white)&nbsp;![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) |
-| **Cloud & DevOps** | ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white)&nbsp;![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)&nbsp;![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)&nbsp;![Alembic](https://img.shields.io/badge/Alembic-FF6F00?style=flat&logo=python&logoColor=white) |
-| **Databases & ORMs** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)&nbsp;![SQLModel](https://img.shields.io/badge/SQLModel-009688?style=flat&logo=pydantic&logoColor=white) |
-| **Learning** | ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white)&nbsp;![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) |
+| **Frameworks** | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white) |
+| **Cloud & DevOps** | ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Alembic](https://img.shields.io/badge/Alembic-FF6F00?style=flat&logo=python&logoColor=white) |
+| **Databases & ORMs** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![SQLModel](https://img.shields.io/badge/SQLModel-009688?style=flat&logo=pydantic&logoColor=white) |
+| **Learning** | ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) |
 ---
 
 ![](https://komarev.com/ghpvc/?username=ecgregorio)
