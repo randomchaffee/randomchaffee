@@ -13,7 +13,7 @@ I like creating utilities, automating, and creating meaningful projects in my fr
 
 # Some Of My Projects
 
-### ☁️ [evangregorio.me](https://github.com/randomchaffee/evangregorio.me) [ARCHIVED]
+### ☁️ [evangregorio.me](https://github.com/randomchaffee/evangregorio.me) [To Be Archived]
 A full-stack platform hosted on a DigitalOcean Droplet (previously on AWS EC2 but I migrated) with Dockerized FastAPI, PostgreSQL, Nginx TLS, and automated CI/CD via GitHub Actions.
 
 <details>
