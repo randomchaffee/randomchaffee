@@ -26,7 +26,9 @@ A full-stack platform hosted on a DigitalOcean Droplet (previously on AWS EC2 bu
   - Production and staging deployment strategy
 </details>
 
-- Website: [Live](https://evangregorio.me) | [API Docs](https://api.evangregorio.me/docs)
+- Website: [Live](https://staging.evangregorio.me) | [API Docs](https://api.evangregorio.me/docs)
+- note: I'll be removing this site from my domain soon. Clicking [Live](https://staging.evangregorio.me) will direct you to the legacy website
+- note: I suggest you dont, better off just going to the main one [here](https://evangregorio.me)
 
 ### 🌙 [Resinly](https://github.com/randomchaffee/resinly)
 A secure, multi-user Discord utility bot for Genshin Impact players to keep track of their resin count.
