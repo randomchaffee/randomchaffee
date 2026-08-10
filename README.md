@@ -48,7 +48,7 @@ A secure, multi-user Discord utility bot for Genshin Impact players to keep trac
 
 ## Recent Contributions
 
-- [randomchaffee/leetcode-submissions](https://github.com/randomchaffee/leetcode-submissions) - A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox) (`1 day ago`)
+- [randomchaffee/leetcode-submissions](https://github.com/randomchaffee/leetcode-submissions) - A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox) (`today`)
 - [randomchaffee/portfolio](https://github.com/randomchaffee/portfolio) - my digital garden (for the fourth iteration now) (wip dont flame me) (`4 days ago`)
 - [Sensha-Zenshin/.github](https://github.com/Sensha-Zenshin/.github) (`1 week ago`)
 - [randomchaffee/mygrad](https://github.com/randomchaffee/mygrad) - a from-scratch autograd engine and neural network library. Based off Karpathy's micrograd. (`4 weeks ago`)
