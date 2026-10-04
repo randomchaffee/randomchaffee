@@ -52,7 +52,7 @@ A secure, multi-user Discord utility bot for Genshin Impact players to keep trac
 - [randomchaffee/portfolio](https://github.com/randomchaffee/portfolio) - my digital garden (for the fourth iteration now) (wip dont flame me) (`2 weeks ago`)
 - [Sensha-Zenshin/.github](https://github.com/Sensha-Zenshin/.github) (`2 months ago`)
 - [randomchaffee/mygrad](https://github.com/randomchaffee/mygrad) - a from-scratch autograd engine and neural network library. Based off Karpathy's micrograd. (`2 months ago`)
-- [randomchaffee/evangregorio.me](https://github.com/randomchaffee/evangregorio.me) - Full-stack personal web platform: FastAPI + PostgreSQL + Docker + Nginx + GitHub Actions CI/CD on AWS EC2. (`2 months ago`)
+- [randomchaffee/evangregorio.me](https://github.com/randomchaffee/evangregorio.me) - Full-stack personal web platform: FastAPI + PostgreSQL + Docker + Nginx + GitHub Actions CI/CD on AWS EC2. (`3 months ago`)
 
 ## Tech Stack
 | Category | Tools |
