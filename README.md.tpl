@@ -6,7 +6,7 @@ I like creating utilities, automating, and creating meaningful projects in my fr
 
 # Contact Me
 <p align="left">
-  <a href="https://linkedin.com/in/evangregorio"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <!-- <a href="https://linkedin.com/in/evangregorio"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> -->
   <a href="mailto:evanngregorio@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://discordapp.com/users/348028456723939329"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </p>
