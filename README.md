@@ -48,11 +48,11 @@ A secure, multi-user Discord utility bot for Genshin Impact players to keep trac
 
 ## Recent Contributions
 
-- [randomchaffee/resinly](https://github.com/randomchaffee/resinly) - Resinly is a Discord bot for tracking resin in Genshin Impact. (`1 day ago`)
-- [randomchaffee/gogenshin](https://github.com/randomchaffee/gogenshin) - A discord bot, written in Go (`1 week ago`)
+- [randomchaffee/resinly](https://github.com/randomchaffee/resinly) - Resinly is a Discord bot for tracking resin in Genshin Impact. (`2 days ago`)
+- [randomchaffee/gogenshin](https://github.com/randomchaffee/gogenshin) - A discord bot, written in Go (`2 weeks ago`)
 - [randomchaffee/leetcode-submissions](https://github.com/randomchaffee/leetcode-submissions) - A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox) (`1 month ago`)
 - [randomchaffee/portfolio](https://github.com/randomchaffee/portfolio) - my digital garden (for the fourth iteration now) (wip dont flame me) (`1 month ago`)
-- [Sensha-Zenshin/.github](https://github.com/Sensha-Zenshin/.github) (`2 months ago`)
+- [Sensha-Zenshin/.github](https://github.com/Sensha-Zenshin/.github) (`3 months ago`)
 
 ## Tech Stack
 | Category | Tools |
